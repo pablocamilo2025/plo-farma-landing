@@ -1,0 +1,7 @@
+.DS_Store
+*.zip
+
+# Archivos de diseño y versiones de referencia que no forman parte del sitio publicado.
+logo-exacto/
+logo-vector/
+v1-reference.html
